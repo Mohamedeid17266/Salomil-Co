@@ -272,3 +272,22 @@
     background-color: rgb(171, 50, 50);
     transform: scale(1.05);
 }
+.offichel .main .partners {
+    text-align: center;
+    margin-top: 50px;
+    margin-bottom: 50px;
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+}
+
+.partners img {
+    width: 250px;
+    height: 300px;
+    margin: 10px;
+    transition: transform 0.3s ease-in-out;
+}
+
+.partners img:hover {
+    transform: scale(1.05);
+}
