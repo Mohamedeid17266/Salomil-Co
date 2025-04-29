@@ -2,6 +2,12 @@
     font-family: Nunito, sans-serif;
 
 }
+i{
+    content: var(--fa);
+    font-size: 33px;
+    color: black;
+}
+    
 
 .head-text-box {
     margin-top: 50px;
