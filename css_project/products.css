@@ -58,6 +58,17 @@
     margin-bottom: 50px;
     font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif
 }
+@media (max-width: 768px){
+    .content .main {
+    width: 350px;}
+    .content .main h1 {
+         font-size:25px;
+    }
+    .content .main p{
+font-size:15px;
+    }
+     
+}
 
 @media (max-width: 768px) {
     .products .main h2 {
