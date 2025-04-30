@@ -226,6 +226,11 @@ font-size:15px;
 
 
 }
+.products-color img{
+width: 200px;
+    height: 338px;
+    border-radius: 25px;
+}
 
 .products-color .main .text {
     text-align: center;
