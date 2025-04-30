@@ -213,10 +213,12 @@ font-size:15px;
 }
 
 .solids .main h3 {
-    font-size: 30px;
-    margin-top: 30px;
-    margin-bottom: 20px;
-    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif
+    font-size: 35px;
+    margin-top: 35px;
+    margin-bottom: 25px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    text-align:center;
+    
 }
 
 .products-color .main {
