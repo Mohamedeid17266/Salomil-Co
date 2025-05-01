@@ -311,3 +311,38 @@ width: 200px;
 .partners img:hover {
     transform: scale(1.05);
 }
+footer {
+   background-color: black;
+   color: white;
+   text-align: center;
+   padding: 20px;
+   position: relative;
+
+
+
+}
+
+footer p {
+   margin: 10px;
+   color: #fff;
+   font-family: "Cairo", sans-serif;
+   font-weight: 400;
+   text-align: center;
+   position: relative;
+
+}
+
+footer a {
+   color: white;
+}
+
+@media (max-width: 768px) {
+   footer p {
+      font-size: 12px;
+   }
+
+   footer {
+      padding: 10px;
+      text-align: center;
+   }
+}
